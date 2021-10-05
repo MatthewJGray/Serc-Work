@@ -1,0 +1,12 @@
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.exe
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.deps.json
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.runtimeconfig.json
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.runtimeconfig.dev.json
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.dll
+M:\IT2021-22\Programming\RecordsDoWhile\bin\Debug\netcoreapp3.1\RecordsDoWhile.pdb
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.AssemblyInfo.cs
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.dll
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.pdb
+M:\IT2021-22\Programming\RecordsDoWhile\obj\Debug\netcoreapp3.1\RecordsDoWhile.genruntimeconfig.cache
