@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.exe
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.deps.json
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.runtimeconfig.json
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.runtimeconfig.dev.json
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.dll
+M:\IT2021-22\Programming\EmployeeArrayExample\bin\Debug\netcoreapp3.1\EmployeeArrayExample.pdb
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.AssemblyInfo.cs
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.dll
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.pdb
+M:\IT2021-22\Programming\EmployeeArrayExample\obj\Debug\netcoreapp3.1\EmployeeArrayExample.genruntimeconfig.cache
