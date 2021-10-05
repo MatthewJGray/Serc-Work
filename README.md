@@ -1,2 +1,2 @@
-# Calculator
-Calculator exercise
+# Serc-Work
+All Serc Programming exercises
