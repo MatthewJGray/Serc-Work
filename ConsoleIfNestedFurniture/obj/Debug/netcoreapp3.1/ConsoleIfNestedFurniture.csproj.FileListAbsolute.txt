@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.exe
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.deps.json
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.runtimeconfig.json
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.runtimeconfig.dev.json
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.dll
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\bin\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.pdb
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.AssemblyInfo.cs
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.dll
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.pdb
+M:\IT2021-22\Programming\ConsoleIfNestedFurniture\obj\Debug\netcoreapp3.1\ConsoleIfNestedFurniture.genruntimeconfig.cache
