@@ -1,0 +1,12 @@
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.AssemblyInfo.cs
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.exe
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.deps.json
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.runtimeconfig.json
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.runtimeconfig.dev.json
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.dll
+M:\IT2021-22\Programming\WhileLoopExample\bin\Debug\netcoreapp3.1\WhileLoopExample.pdb
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.dll
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.pdb
+M:\IT2021-22\Programming\WhileLoopExample\obj\Debug\netcoreapp3.1\WhileLoopExample.genruntimeconfig.cache
