@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.AssemblyInfo.cs
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.exe
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.deps.json
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.runtimeconfig.json
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.runtimeconfig.dev.json
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.dll
+M:\IT2021-22\Programming\ConsoleIfExample01\bin\Debug\netcoreapp3.1\ConsoleIfExample01.pdb
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.dll
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.pdb
+M:\IT2021-22\Programming\ConsoleIfExample01\obj\Debug\netcoreapp3.1\ConsoleIfExample01.genruntimeconfig.cache
