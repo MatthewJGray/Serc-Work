@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.exe
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.deps.json
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.runtimeconfig.json
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.runtimeconfig.dev.json
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.dll
+M:\IT2021-22\Programming\SeasonsSwitchCase\bin\Debug\netcoreapp3.1\SeasonsSwitchCase.pdb
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.AssemblyInfo.cs
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.dll
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.pdb
+M:\IT2021-22\Programming\SeasonsSwitchCase\obj\Debug\netcoreapp3.1\SeasonsSwitchCase.genruntimeconfig.cache
