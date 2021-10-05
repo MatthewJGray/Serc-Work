@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.AssemblyInfo.cs
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.exe
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.deps.json
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.runtimeconfig.json
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.runtimeconfig.dev.json
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.dll
+M:\IT2021-22\Programming\StudentGrades\bin\Debug\netcoreapp3.1\StudentGrades.pdb
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.dll
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.pdb
+M:\IT2021-22\Programming\StudentGrades\obj\Debug\netcoreapp3.1\StudentGrades.genruntimeconfig.cache
