@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.AssemblyInfo.cs
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.exe
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.deps.json
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.runtimeconfig.json
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.runtimeconfig.dev.json
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.dll
+M:\IT2021-22\Programming\StudentInfoTask\bin\Debug\netcoreapp3.1\StudentInfoTask.pdb
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.dll
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.pdb
+M:\IT2021-22\Programming\StudentInfoTask\obj\Debug\netcoreapp3.1\StudentInfoTask.genruntimeconfig.cache
