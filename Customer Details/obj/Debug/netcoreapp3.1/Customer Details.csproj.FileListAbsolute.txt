@@ -1,0 +1,13 @@
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.exe
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.deps.json
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.runtimeconfig.json
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.runtimeconfig.dev.json
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.dll
+M:\IT2021-22\Programming\Customer Details\bin\Debug\netcoreapp3.1\Customer Details.pdb
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.csprojAssemblyReference.cache
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.AssemblyInfo.cs
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.dll
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.pdb
+M:\IT2021-22\Programming\Customer Details\obj\Debug\netcoreapp3.1\Customer Details.genruntimeconfig.cache
