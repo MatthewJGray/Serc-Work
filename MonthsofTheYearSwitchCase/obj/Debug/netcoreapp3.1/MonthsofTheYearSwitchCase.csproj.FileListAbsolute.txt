@@ -1,0 +1,12 @@
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.AssemblyInfoInputs.cache
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.AssemblyInfo.cs
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.csproj.CoreCompileInputs.cache
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.exe
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.deps.json
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.runtimeconfig.json
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.runtimeconfig.dev.json
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.dll
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\bin\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.pdb
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.dll
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.pdb
+M:\IT2021-22\Programming\MonthsofTheYearSwitchCase\obj\Debug\netcoreapp3.1\MonthsofTheYearSwitchCase.genruntimeconfig.cache
